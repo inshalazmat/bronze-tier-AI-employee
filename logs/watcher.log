@@ -1,0 +1,22 @@
+2026-04-17 20:11:42,966 - FileSystemWatcher - INFO - Starting File System Watcher for AI Employee
+2026-04-17 20:11:42,967 - FileSystemWatcher - INFO - Monitoring drop folder: C:\Users\Lenovo\AI_Employee_Vault\drop
+2026-04-17 20:11:42,968 - FileSystemWatcher - INFO - Action folder: C:\Users\Lenovo\AI_Employee_Vault\Needs_Action
+2026-04-17 20:11:42,975 - FileSystemWatcher - INFO - File System Watcher started successfully
+2026-04-17 20:11:42,975 - FileSystemWatcher - INFO - Press Ctrl+C to stop
+2026-04-17 20:28:05,656 - FileSystemWatcher - INFO - Detected new file: test_hello.txt
+2026-04-17 20:28:05,667 - FileSystemWatcher - ERROR - Error processing file test_hello.txt: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Lenovo\\AI_Employee_Vault\\drop\\test_hello.txt'
+2026-04-17 21:02:28,113 - FileSystemWatcher - INFO - Starting File System Watcher for AI Employee
+2026-04-17 21:02:28,114 - FileSystemWatcher - INFO - Monitoring drop folder: C:\Users\Lenovo\AI_Employee_Vault\drop
+2026-04-17 21:02:28,115 - FileSystemWatcher - INFO - Action folder: C:\Users\Lenovo\AI_Employee_Vault\Needs_Action
+2026-04-17 21:02:28,121 - FileSystemWatcher - INFO - File System Watcher started successfully
+2026-04-17 21:02:28,121 - FileSystemWatcher - INFO - Press Ctrl+C to stop
+2026-04-17 21:02:50,740 - FileSystemWatcher - INFO - Detected new file: test_hello.txt
+2026-04-17 21:02:50,758 - FileSystemWatcher - INFO - Moved file to: C:\Users\Lenovo\AI_Employee_Vault\Needs_Action\FILE_20260417_210250_test_hello.txt
+2026-04-17 21:02:50,760 - FileSystemWatcher - INFO - Created metadata file: C:\Users\Lenovo\AI_Employee_Vault\Needs_Action\FILE_20260417_210250_test_hello.md
+2026-04-17 21:08:37,420 - FileSystemWatcher - INFO - Starting File System Watcher for AI Employee
+2026-04-17 21:08:37,426 - FileSystemWatcher - INFO - Monitoring drop folder: C:\Users\Lenovo\AI_Employee_Vault\drop
+2026-04-17 21:08:37,426 - FileSystemWatcher - INFO - Action folder: C:\Users\Lenovo\AI_Employee_Vault\Needs_Action
+2026-04-17 21:08:37,434 - FileSystemWatcher - INFO - File System Watcher started successfully
+2026-04-17 21:08:37,435 - FileSystemWatcher - INFO - Press Ctrl+C to stop
+2026-04-17 21:09:03,059 - FileSystemWatcher - INFO - Detected new file: test_hello.txt
+2026-04-17 21:09:03,087 - FileSystemWatcher - ERROR - Error processing file test_hello.txt: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Lenovo\\AI_Employee_Vault\\drop\\test_hello.txt'
